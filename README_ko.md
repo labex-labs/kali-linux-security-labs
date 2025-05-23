@@ -33,12 +33,12 @@ LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입�
 
 |   인덱스 | 이름                                               | 난이도   | 연습                                                                                                                     |
 |----------|----------------------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 Nmap 및 DNS 를 활용한 Kali 정찰                 | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/kali-kali-reconnaissance-with-nmap-and-dns-552298'>실습 시작</a>  |
-|       02 | 📖 Kali Linux 환경에서 Nikto 를 이용한 취약점 스캔 | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/kali-kali-vulnerability-scanning-with-nikto-552301'>실습 시작</a> |
+|       01 | 📖 Nmap 및 DNS 를 활용한 Kali 정찰                 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/kali-kali-reconnaissance-with-nmap-and-dns-552298'>실습 시작</a>  |
+|       02 | 📖 Kali Linux 환경에서 Nikto 를 이용한 취약점 스캔 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/kali-kali-vulnerability-scanning-with-nikto-552301'>실습 시작</a> |
 
 ## 더 보기
 
-- 🔗 [Kali Linux Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Kali Linux Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Kali Linux Free Tutorials](https://github.com/labex-labs/kali-free-tutorials)
+- 🔗 [Kali Linux 프로그래밍 코스](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Kali Linux 프로그래밍 프로젝트](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Kali Linux 무료 튜토리얼](https://github.com/labex-labs/kali-free-tutorials)
 
