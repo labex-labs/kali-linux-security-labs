@@ -35,6 +35,16 @@ Saiba mais sobre [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 |----------|----------------------------------------------------|---------------|----------------------------------------------------------------------------------------------------------------------------|
 |       01 | 📖 Reconhecimento Kali com Nmap e DNS              | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/kali-kali-reconnaissance-with-nmap-and-dns-552298'>Iniciar Lab</a>  |
 |       02 | 📖 Varredura de Vulnerabilidades no Kali com Nikto | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/kali-kali-vulnerability-scanning-with-nikto-552301'>Iniciar Lab</a> |
+|       03 | 📖 Kali Password Cracking with John                | Iniciante     | Em Breve                                                                                                                   |
+|       04 | 📖 Kali Web Testing with Burp Suite                | Iniciante     | Em Breve                                                                                                                   |
+|       05 | 📖 Kali SQL Injection with sqlmap                  | Iniciante     | Em Breve                                                                                                                   |
+|       06 | 📖 Kali Exploitation with Metasploit               | Iniciante     | Em Breve                                                                                                                   |
+|       07 | 📖 Kali Wireless Attacks with Aircrack-ng          | Iniciante     | Em Breve                                                                                                                   |
+|       08 | 📖 Kali Password Attacks with Hydra                | Iniciante     | Em Breve                                                                                                                   |
+|       09 | 📖 Kali Firewall Configuration with iptables       | Iniciante     | Em Breve                                                                                                                   |
+|       10 | 📖 Kali Log Analysis with journalctl               | Iniciante     | Em Breve                                                                                                                   |
+|       11 | 📖 Kali Automation with Bash and Python            | Iniciante     | Em Breve                                                                                                                   |
+|       12 | 📖 Kali Reporting with Git and Dradis              | Iniciante     | Em Breve                                                                                                                   |
 
 ## Mais
 
