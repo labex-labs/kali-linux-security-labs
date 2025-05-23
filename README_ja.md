@@ -35,6 +35,16 @@ LabEx は、コーディングとテクノロジーに特化したインタラ�
 |----------------|---------------------------------------------------|----------|---------------------------------------------------------------------------------------------------------------------------|
 |             01 | 📖 Nmap と DNS を使った Kali Linux 偵察           | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/kali-kali-reconnaissance-with-nmap-and-dns-552298'>ラボを開始</a>  |
 |             02 | 📖 Kali Linux での Nikto を使用した脆弱性スキャン | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/kali-kali-vulnerability-scanning-with-nikto-552301'>ラボを開始</a> |
+|             03 | 📖 Kali Password Cracking with John               | 初級     | 近日公開                                                                                                                  |
+|             04 | 📖 Kali Web Testing with Burp Suite               | 初級     | 近日公開                                                                                                                  |
+|             05 | 📖 Kali SQL Injection with sqlmap                 | 初級     | 近日公開                                                                                                                  |
+|             06 | 📖 Kali Exploitation with Metasploit              | 初級     | 近日公開                                                                                                                  |
+|             07 | 📖 Kali Wireless Attacks with Aircrack-ng         | 初級     | 近日公開                                                                                                                  |
+|             08 | 📖 Kali Password Attacks with Hydra               | 初級     | 近日公開                                                                                                                  |
+|             09 | 📖 Kali Firewall Configuration with iptables      | 初級     | 近日公開                                                                                                                  |
+|             10 | 📖 Kali Log Analysis with journalctl              | 初級     | 近日公開                                                                                                                  |
+|             11 | 📖 Kali Automation with Bash and Python           | 初級     | 近日公開                                                                                                                  |
+|             12 | 📖 Kali Reporting with Git and Dradis             | 初級     | 近日公開                                                                                                                  |
 
 ## その他
 
