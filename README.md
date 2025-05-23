@@ -4,9 +4,9 @@
 
 🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
 
-[![Kali Linux Security Labs](https://cover-creator.labex.io/kali-linux-security-labs.png)](https://labex.io/en/courses/kali-linux-security-labs)
+[![Kali Linux Security Labs](https://cover-creator.labex.io/kali-linux-security-labs.png)](https://labex.io/courses/kali-linux-security-labs)
 
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/en/courses/kali-linux-security-labs)
+[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/courses/kali-linux-security-labs)
 
 In this course, learn practical cybersecurity skills using Kali Linux. Explore reconnaissance, vulnerability scanning, password cracking, web testing, exploitation, and more through hands-on labs.
 
@@ -31,10 +31,10 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                      | Difficulty   | Practice                                                                                                                 |
-|---------|-------------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Kali Reconnaissance with Nmap and DNS  | ★☆☆          | <a target='_blank' href='https://labex.io/en/tutorials/kali-kali-reconnaissance-with-nmap-and-dns-552298'>Start Lab</a>  |
-|      02 | 📖 Kali Vulnerability Scanning with Nikto | ★☆☆          | <a target='_blank' href='https://labex.io/en/tutorials/kali-kali-vulnerability-scanning-with-nikto-552301'>Start Lab</a> |
+|   Index | Name                                      | Difficulty   | Practice                                                                                                              |
+|---------|-------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 Kali Reconnaissance with Nmap and DNS  | Beginner     | <a target='_blank' href='https://labex.io/tutorials/kali-kali-reconnaissance-with-nmap-and-dns-552298'>Start Lab</a>  |
+|      02 | 📖 Kali Vulnerability Scanning with Nikto | Beginner     | <a target='_blank' href='https://labex.io/tutorials/kali-kali-vulnerability-scanning-with-nikto-552301'>Start Lab</a> |
 
 ## More
 
