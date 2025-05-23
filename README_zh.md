@@ -31,10 +31,20 @@ LabEx 是一个专注于编程和技术的交互式动手学习平台。它结�
 
 ## 练习
 
-|   序号 | 名称                               | 难度   | 练习                                                                                                                    |
-|--------|------------------------------------|--------|-------------------------------------------------------------------------------------------------------------------------|
-|     01 | 📖 使用 Nmap 和 DNS 进行 Kali 侦察 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/kali-kali-reconnaissance-with-nmap-and-dns-552298'>开始实验</a>  |
-|     02 | 📖 使用 Nikto 进行 Kali 漏洞扫描   | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/kali-kali-vulnerability-scanning-with-nikto-552301'>开始实验</a> |
+|   序号 | 名称                                         | 难度   | 练习                                                                                                                    |
+|--------|----------------------------------------------|--------|-------------------------------------------------------------------------------------------------------------------------|
+|     01 | 📖 使用 Nmap 和 DNS 进行 Kali 侦察           | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/kali-kali-reconnaissance-with-nmap-and-dns-552298'>开始实验</a>  |
+|     02 | 📖 使用 Nikto 进行 Kali 漏洞扫描             | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/kali-kali-vulnerability-scanning-with-nikto-552301'>开始实验</a> |
+|     03 | 📖 Kali Password Cracking with John          | 初级   | 即将推出                                                                                                                |
+|     04 | 📖 Kali Web Testing with Burp Suite          | 初级   | 即将推出                                                                                                                |
+|     05 | 📖 Kali SQL Injection with sqlmap            | 初级   | 即将推出                                                                                                                |
+|     06 | 📖 Kali Exploitation with Metasploit         | 初级   | 即将推出                                                                                                                |
+|     07 | 📖 Kali Wireless Attacks with Aircrack-ng    | 初级   | 即将推出                                                                                                                |
+|     08 | 📖 Kali Password Attacks with Hydra          | 初级   | 即将推出                                                                                                                |
+|     09 | 📖 Kali Firewall Configuration with iptables | 初级   | 即将推出                                                                                                                |
+|     10 | 📖 Kali Log Analysis with journalctl         | 初级   | 即将推出                                                                                                                |
+|     11 | 📖 Kali Automation with Bash and Python      | 初级   | 即将推出                                                                                                                |
+|     12 | 📖 Kali Reporting with Git and Dradis        | 初级   | 即将推出                                                                                                                |
 
 ## 更多
 
