@@ -35,6 +35,16 @@ LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입�
 |----------|----------------------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------|
 |       01 | 📖 Nmap 및 DNS 를 활용한 Kali 정찰                 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/kali-kali-reconnaissance-with-nmap-and-dns-552298'>실습 시작</a>  |
 |       02 | 📖 Kali Linux 환경에서 Nikto 를 이용한 취약점 스캔 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/kali-kali-vulnerability-scanning-with-nikto-552301'>실습 시작</a> |
+|       03 | 📖 Kali Password Cracking with John                | 초급     | 곧 출시                                                                                                                  |
+|       04 | 📖 Kali Web Testing with Burp Suite                | 초급     | 곧 출시                                                                                                                  |
+|       05 | 📖 Kali SQL Injection with sqlmap                  | 초급     | 곧 출시                                                                                                                  |
+|       06 | 📖 Kali Exploitation with Metasploit               | 초급     | 곧 출시                                                                                                                  |
+|       07 | 📖 Kali Wireless Attacks with Aircrack-ng          | 초급     | 곧 출시                                                                                                                  |
+|       08 | 📖 Kali Password Attacks with Hydra                | 초급     | 곧 출시                                                                                                                  |
+|       09 | 📖 Kali Firewall Configuration with iptables       | 초급     | 곧 출시                                                                                                                  |
+|       10 | 📖 Kali Log Analysis with journalctl               | 초급     | 곧 출시                                                                                                                  |
+|       11 | 📖 Kali Automation with Bash and Python            | 초급     | 곧 출시                                                                                                                  |
+|       12 | 📖 Kali Reporting with Git and Dradis              | 초급     | 곧 출시                                                                                                                  |
 
 ## 더 보기
 
