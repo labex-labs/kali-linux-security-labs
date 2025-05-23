@@ -31,10 +31,20 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                      | Difficulty   | Practice                                                                                                              |
-|---------|-------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Kali Reconnaissance with Nmap and DNS  | Beginner     | <a target='_blank' href='https://labex.io/tutorials/kali-kali-reconnaissance-with-nmap-and-dns-552298'>Start Lab</a>  |
-|      02 | 📖 Kali Vulnerability Scanning with Nikto | Beginner     | <a target='_blank' href='https://labex.io/tutorials/kali-kali-vulnerability-scanning-with-nikto-552301'>Start Lab</a> |
+|   Index | Name                                         | Difficulty   | Practice                                                                                                              |
+|---------|----------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 Kali Reconnaissance with Nmap and DNS     | Beginner     | <a target='_blank' href='https://labex.io/tutorials/kali-kali-reconnaissance-with-nmap-and-dns-552298'>Start Lab</a>  |
+|      02 | 📖 Kali Vulnerability Scanning with Nikto    | Beginner     | <a target='_blank' href='https://labex.io/tutorials/kali-kali-vulnerability-scanning-with-nikto-552301'>Start Lab</a> |
+|      03 | 📖 Kali Password Cracking with John          | Beginner     | Coming Soon                                                                                                           |
+|      04 | 📖 Kali Web Testing with Burp Suite          | Beginner     | Coming Soon                                                                                                           |
+|      05 | 📖 Kali SQL Injection with sqlmap            | Beginner     | Coming Soon                                                                                                           |
+|      06 | 📖 Kali Exploitation with Metasploit         | Beginner     | Coming Soon                                                                                                           |
+|      07 | 📖 Kali Wireless Attacks with Aircrack-ng    | Beginner     | Coming Soon                                                                                                           |
+|      08 | 📖 Kali Password Attacks with Hydra          | Beginner     | Coming Soon                                                                                                           |
+|      09 | 📖 Kali Firewall Configuration with iptables | Beginner     | Coming Soon                                                                                                           |
+|      10 | 📖 Kali Log Analysis with journalctl         | Beginner     | Coming Soon                                                                                                           |
+|      11 | 📖 Kali Automation with Bash and Python      | Beginner     | Coming Soon                                                                                                           |
+|      12 | 📖 Kali Reporting with Git and Dradis        | Beginner     | Coming Soon                                                                                                           |
 
 ## More
 
