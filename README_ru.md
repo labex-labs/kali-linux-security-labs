@@ -33,12 +33,12 @@ LabEx - это интерактивная практическая обучаю�
 
 |   Индекс | Название                                         | Сложность   | Практика                                                                                                                          |
 |----------|--------------------------------------------------|-------------|-----------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 Разведка в Kali с использованием Nmap и DNS   | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/kali-kali-reconnaissance-with-nmap-and-dns-552298'>Начать Лабораторию</a>  |
-|       02 | 📖 Сканирование уязвимостей Kali с помощью Nikto | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/kali-kali-vulnerability-scanning-with-nikto-552301'>Начать Лабораторию</a> |
+|       01 | 📖 Разведка в Kali с использованием Nmap и DNS   | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/kali-kali-reconnaissance-with-nmap-and-dns-552298'>Начать Лабораторию</a>  |
+|       02 | 📖 Сканирование уязвимостей Kali с помощью Nikto | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/kali-kali-vulnerability-scanning-with-nikto-552301'>Начать Лабораторию</a> |
 
 ## Больше
 
-- 🔗 [Kali Linux Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Kali Linux Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Kali Linux Free Tutorials](https://github.com/labex-labs/kali-free-tutorials)
+- 🔗 [Kali Linux Курсы программирования](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Kali Linux Проекты программирования](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Kali Linux Бесплатные туториалы](https://github.com/labex-labs/kali-free-tutorials)
 
