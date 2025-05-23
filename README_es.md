@@ -33,12 +33,12 @@ Aprende más sobre [LabEx VM](https://support.labex.io/using-labex/virtual-machi
 
 |   Índice | Nombre                                           | Dificultad   | Práctica                                                                                                                           |
 |----------|--------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 Reconocimiento con Kali: Nmap y DNS           | ★☆☆          | <a target='_blank' href='https://labex.io/es/tutorials/kali-kali-reconnaissance-with-nmap-and-dns-552298'>Iniciar Laboratorio</a>  |
-|       02 | 📖 Escaneo de Vulnerabilidades con Nikto en Kali | ★☆☆          | <a target='_blank' href='https://labex.io/es/tutorials/kali-kali-vulnerability-scanning-with-nikto-552301'>Iniciar Laboratorio</a> |
+|       01 | 📖 Reconocimiento con Kali: Nmap y DNS           | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/kali-kali-reconnaissance-with-nmap-and-dns-552298'>Iniciar Laboratorio</a>  |
+|       02 | 📖 Escaneo de Vulnerabilidades con Nikto en Kali | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/kali-kali-vulnerability-scanning-with-nikto-552301'>Iniciar Laboratorio</a> |
 
 ## Más
 
-- 🔗 [Kali Linux Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Kali Linux Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Kali Linux Free Tutorials](https://github.com/labex-labs/kali-free-tutorials)
+- 🔗 [Kali Linux Cursos de Programación](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Kali Linux Proyectos de Programación](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Kali Linux Tutoriales Gratuitos](https://github.com/labex-labs/kali-free-tutorials)
 
