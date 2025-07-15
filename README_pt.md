@@ -15,6 +15,23 @@ Neste curso, aprenda habilidades práticas de segurança cibernética usando o K
 ![Linux](https://img.shields.io/badge/Linux-whitesmoke?style=for-the-badge&logo=linux)
 
 
+## Exercícios
+
+|   Índice | Nome                                                  | Dificuldade   | Prática                                                                                                                    |
+|----------|-------------------------------------------------------|---------------|----------------------------------------------------------------------------------------------------------------------------|
+|       01 | 📖 🔵 Reconhecimento Kali com Nmap e DNS              | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/kali-kali-reconnaissance-with-nmap-and-dns-552298'>Iniciar Lab</a>  |
+|       02 | 📖 🔵 Varredura de Vulnerabilidades no Kali com Nikto | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/kali-kali-vulnerability-scanning-with-nikto-552301'>Iniciar Lab</a> |
+|       03 | 📖 🟢 Quebra de Senhas no Kali com John               | Iniciante     | Em Breve                                                                                                                   |
+|       04 | 📖 🟢 Testes Web com Kali e Burp Suite                | Iniciante     | Em Breve                                                                                                                   |
+|       05 | 📖 🟢 Injeção SQL com Kali Linux e sqlmap             | Iniciante     | Em Breve                                                                                                                   |
+|       06 | 📖 🟢 Exploração Kali com Metasploit                  | Iniciante     | Em Breve                                                                                                                   |
+|       07 | 📖 🟢 Ataques Wireless com Kali Linux e Aircrack-ng   | Iniciante     | Em Breve                                                                                                                   |
+|       08 | 📖 🟢 Ataques de Senha no Kali com Hydra              | Iniciante     | Em Breve                                                                                                                   |
+|       09 | 📖 🟢 Configuração de Firewall Kali com iptables      | Iniciante     | Em Breve                                                                                                                   |
+|       10 | 📖 🟢 Análise de Logs no Kali Linux com journalctl    | Iniciante     | Em Breve                                                                                                                   |
+|       11 | 📖 🟢 Automação no Kali com Bash e Python             | Iniciante     | Em Breve                                                                                                                   |
+|       12 | 📖 🟢 Relatórios Kali com Git e Dradis                | Iniciante     | Em Breve                                                                                                                   |
+
 ## Ambiente
 
 LabEx é uma plataforma de aprendizagem interativa e prática dedicada à programação e tecnologia. Combina laboratórios, assistência de IA e máquinas virtuais para fornecer uma experiência de aprendizagem prática sem vídeos.
@@ -25,26 +42,9 @@ LabEx é uma plataforma de aprendizagem interativa e prática dedicada à progra
 - Ambientes online interativos no navegador, com verificações automatizadas passo a passo.
 - Uma organização de conteúdo estruturada com o sistema baseado em Árvore de Habilidades.
 - Um recurso de aprendizagem crescente de 30 Árvores de Habilidades e mais de 6.000 Laboratórios.
-- O assistente de aprendizagem de IA Labby, construído sobre ChatGPT, fornecendo uma experiência de aprendizagem conversacional.
+- O assistente de aprendizagem Labby, construído sobre os últimos modelos de IA, fornecendo uma experiência de aprendizagem conversacional.
 
 Saiba mais sobre [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
-
-## Exercícios
-
-|   Índice | Nome                                               | Dificuldade   | Prática                                                                                                                    |
-|----------|----------------------------------------------------|---------------|----------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 Reconhecimento Kali com Nmap e DNS              | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/kali-kali-reconnaissance-with-nmap-and-dns-552298'>Iniciar Lab</a>  |
-|       02 | 📖 Varredura de Vulnerabilidades no Kali com Nikto | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/kali-kali-vulnerability-scanning-with-nikto-552301'>Iniciar Lab</a> |
-|       03 | 📖 Kali Password Cracking with John                | Iniciante     | Em Breve                                                                                                                   |
-|       04 | 📖 Kali Web Testing with Burp Suite                | Iniciante     | Em Breve                                                                                                                   |
-|       05 | 📖 Kali SQL Injection with sqlmap                  | Iniciante     | Em Breve                                                                                                                   |
-|       06 | 📖 Kali Exploitation with Metasploit               | Iniciante     | Em Breve                                                                                                                   |
-|       07 | 📖 Kali Wireless Attacks with Aircrack-ng          | Iniciante     | Em Breve                                                                                                                   |
-|       08 | 📖 Kali Password Attacks with Hydra                | Iniciante     | Em Breve                                                                                                                   |
-|       09 | 📖 Kali Firewall Configuration with iptables       | Iniciante     | Em Breve                                                                                                                   |
-|       10 | 📖 Kali Log Analysis with journalctl               | Iniciante     | Em Breve                                                                                                                   |
-|       11 | 📖 Kali Automation with Bash and Python            | Iniciante     | Em Breve                                                                                                                   |
-|       12 | 📖 Kali Reporting with Git and Dradis              | Iniciante     | Em Breve                                                                                                                   |
 
 ## Mais
 
