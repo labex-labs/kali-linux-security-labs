@@ -15,6 +15,23 @@ In this course, learn practical cybersecurity skills using Kali Linux. Explore r
 ![Linux](https://img.shields.io/badge/Linux-whitesmoke?style=for-the-badge&logo=linux)
 
 
+## Exercises
+
+|   Index | Name                                            | Difficulty   | Practice                                                                                                              |
+|---------|-------------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 🔵 Kali Reconnaissance with Nmap and DNS     | Beginner     | <a target='_blank' href='https://labex.io/tutorials/kali-kali-reconnaissance-with-nmap-and-dns-552298'>Start Lab</a>  |
+|      02 | 📖 🔵 Kali Vulnerability Scanning with Nikto    | Beginner     | <a target='_blank' href='https://labex.io/tutorials/kali-kali-vulnerability-scanning-with-nikto-552301'>Start Lab</a> |
+|      03 | 📖 🟢 Kali Password Cracking with John          | Beginner     | Coming Soon                                                                                                           |
+|      04 | 📖 🟢 Kali Web Testing with Burp Suite          | Beginner     | Coming Soon                                                                                                           |
+|      05 | 📖 🟢 Kali SQL Injection with sqlmap            | Beginner     | Coming Soon                                                                                                           |
+|      06 | 📖 🟢 Kali Exploitation with Metasploit         | Beginner     | Coming Soon                                                                                                           |
+|      07 | 📖 🟢 Kali Wireless Attacks with Aircrack-ng    | Beginner     | Coming Soon                                                                                                           |
+|      08 | 📖 🟢 Kali Password Attacks with Hydra          | Beginner     | Coming Soon                                                                                                           |
+|      09 | 📖 🟢 Kali Firewall Configuration with iptables | Beginner     | Coming Soon                                                                                                           |
+|      10 | 📖 🟢 Kali Log Analysis with journalctl         | Beginner     | Coming Soon                                                                                                           |
+|      11 | 📖 🟢 Kali Automation with Bash and Python      | Beginner     | Coming Soon                                                                                                           |
+|      12 | 📖 🟢 Kali Reporting with Git and Dradis        | Beginner     | Coming Soon                                                                                                           |
+
 ## Environment
 
 LabEx is an interactive, hands-on learning platform dedicated to coding and technology. It combines labs, AI assistance, and virtual machines to provide a no-video, practical learning experience.
@@ -25,26 +42,9 @@ LabEx is an interactive, hands-on learning platform dedicated to coding and tech
 - Interactive online environments within the browser, with automated step-by-step checks.
 - A structured content organization with the Skill Tree based learning system.
 - A growing learning resource of 30 Skill Trees and over 6,000 Labs.
-- The AI learning assistant Labby, built on ChatGPT, providing a conversational learning experience.
+- The learning assistant Labby, built on lastest AI models, providing a conversational learning experience.
 
 Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
-
-## Exercises
-
-|   Index | Name                                         | Difficulty   | Practice                                                                                                              |
-|---------|----------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Kali Reconnaissance with Nmap and DNS     | Beginner     | <a target='_blank' href='https://labex.io/tutorials/kali-kali-reconnaissance-with-nmap-and-dns-552298'>Start Lab</a>  |
-|      02 | 📖 Kali Vulnerability Scanning with Nikto    | Beginner     | <a target='_blank' href='https://labex.io/tutorials/kali-kali-vulnerability-scanning-with-nikto-552301'>Start Lab</a> |
-|      03 | 📖 Kali Password Cracking with John          | Beginner     | Coming Soon                                                                                                           |
-|      04 | 📖 Kali Web Testing with Burp Suite          | Beginner     | Coming Soon                                                                                                           |
-|      05 | 📖 Kali SQL Injection with sqlmap            | Beginner     | Coming Soon                                                                                                           |
-|      06 | 📖 Kali Exploitation with Metasploit         | Beginner     | Coming Soon                                                                                                           |
-|      07 | 📖 Kali Wireless Attacks with Aircrack-ng    | Beginner     | Coming Soon                                                                                                           |
-|      08 | 📖 Kali Password Attacks with Hydra          | Beginner     | Coming Soon                                                                                                           |
-|      09 | 📖 Kali Firewall Configuration with iptables | Beginner     | Coming Soon                                                                                                           |
-|      10 | 📖 Kali Log Analysis with journalctl         | Beginner     | Coming Soon                                                                                                           |
-|      11 | 📖 Kali Automation with Bash and Python      | Beginner     | Coming Soon                                                                                                           |
-|      12 | 📖 Kali Reporting with Git and Dradis        | Beginner     | Coming Soon                                                                                                           |
 
 ## More
 
