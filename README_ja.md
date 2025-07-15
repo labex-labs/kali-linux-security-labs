@@ -15,6 +15,23 @@
 ![Linux](https://img.shields.io/badge/Linux-whitesmoke?style=for-the-badge&logo=linux)
 
 
+## 演習
+
+|   インデックス | 名前                                                      | 難易度   | 練習                                                                                                                      |
+|----------------|-----------------------------------------------------------|----------|---------------------------------------------------------------------------------------------------------------------------|
+|             01 | 📖 🔵 Nmap と DNS を使った Kali Linux 偵察                | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/kali-kali-reconnaissance-with-nmap-and-dns-552298'>ラボを開始</a>  |
+|             02 | 📖 🔵 Kali Linux での Nikto を使用した脆弱性スキャン      | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/kali-kali-vulnerability-scanning-with-nikto-552301'>ラボを開始</a> |
+|             03 | 📖 🟢 Kali Linux で John を使ったパスワードクラッキング   | 初級     | 近日公開                                                                                                                  |
+|             04 | 📖 🟢 Burp Suite を使った Kali Linux での Web テスト      | 初級     | 近日公開                                                                                                                  |
+|             05 | 📖 🟢 Kali Linux と sqlmap による SQL インジェクション    | 初級     | 近日公開                                                                                                                  |
+|             06 | 📖 🟢 Metasploit を使った Kali Linux エクスプロイト       | 初級     | 近日公開                                                                                                                  |
+|             07 | 📖 🟢 Aircrack-ng を使った Kali Linux での無線攻撃        | 初級     | 近日公開                                                                                                                  |
+|             08 | 📖 🟢 Kali Linux と Hydra を使ったパスワード攻撃          | 初級     | 近日公開                                                                                                                  |
+|             09 | 📖 🟢 iptables を使用した Kali Linux ファイアウォール設定 | 初級     | 近日公開                                                                                                                  |
+|             10 | 📖 🟢 journalctl を使った Kali Linux ログ分析             | 初級     | 近日公開                                                                                                                  |
+|             11 | 📖 🟢 Bash と Python を使った Kali Linux の自動化         | 初級     | 近日公開                                                                                                                  |
+|             12 | 📖 🟢 Kali Linux と Git、Dradis を用いたレポート作成      | 初級     | 近日公開                                                                                                                  |
+
 ## 環境
 
 LabEx は、コーディングとテクノロジーに特化したインタラクティブな実践学習プラットフォームです。ラボ、AI 支援、仮想マシンを組み合わせて、ビデオなしの実践的な学習体験を提供します。
@@ -25,26 +42,9 @@ LabEx は、コーディングとテクノロジーに特化したインタラ�
 - ブラウザ内のインタラクティブなオンライン環境で、自動化されたステップバイステップのチェック機能。
 - スキルツリーベースのシステムによる構造化されたコンテンツ組織。
 - 30 のスキルツリーと 6,000 以上のラボを含む成長し続ける学習リソース。
-- ChatGPT を基盤とした AI 学習アシスタント Labby による対話型学習体験。
+- 最新の AI モデルを基盤とした学習アシスタント Labby による対話型学習体験。
 
 詳細について [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
-
-## 演習
-
-|   インデックス | 名前                                              | 難易度   | 練習                                                                                                                      |
-|----------------|---------------------------------------------------|----------|---------------------------------------------------------------------------------------------------------------------------|
-|             01 | 📖 Nmap と DNS を使った Kali Linux 偵察           | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/kali-kali-reconnaissance-with-nmap-and-dns-552298'>ラボを開始</a>  |
-|             02 | 📖 Kali Linux での Nikto を使用した脆弱性スキャン | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/kali-kali-vulnerability-scanning-with-nikto-552301'>ラボを開始</a> |
-|             03 | 📖 Kali Password Cracking with John               | 初級     | 近日公開                                                                                                                  |
-|             04 | 📖 Kali Web Testing with Burp Suite               | 初級     | 近日公開                                                                                                                  |
-|             05 | 📖 Kali SQL Injection with sqlmap                 | 初級     | 近日公開                                                                                                                  |
-|             06 | 📖 Kali Exploitation with Metasploit              | 初級     | 近日公開                                                                                                                  |
-|             07 | 📖 Kali Wireless Attacks with Aircrack-ng         | 初級     | 近日公開                                                                                                                  |
-|             08 | 📖 Kali Password Attacks with Hydra               | 初級     | 近日公開                                                                                                                  |
-|             09 | 📖 Kali Firewall Configuration with iptables      | 初級     | 近日公開                                                                                                                  |
-|             10 | 📖 Kali Log Analysis with journalctl              | 初級     | 近日公開                                                                                                                  |
-|             11 | 📖 Kali Automation with Bash and Python           | 初級     | 近日公開                                                                                                                  |
-|             12 | 📖 Kali Reporting with Git and Dradis             | 初級     | 近日公開                                                                                                                  |
 
 ## その他
 
